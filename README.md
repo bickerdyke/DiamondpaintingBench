@@ -1,6 +1,6 @@
 # Diamond-Painting Workbench
 
-When "Diamond Painting" you're applying hundred thousands of sparkling resin rhinestones, one-by-one, on an adhesive color-coded canvas. Pretty similar to painting-by-numbers, but with more glitter. Tedious, but fool-proof and sparkling.
+When "Diamond Painting", you're applying hundred thousands of sparkling resin rhinestones, one-by-one, on an adhesive color-coded canvas. Pretty similar to painting-by-numbers, but with more glitter. Tedious, but fool-proof and sparkling.
 
 You'll need a few tools for it: a tray for the rhinestones, a stylus to pick them up, a little piece of wax to cover the tip of the stylus, maybe some tweezers to fix the position of single stones, and of course the stones themselves. These tend to clutter up your desk, especially if you are using your regular desk.
 
