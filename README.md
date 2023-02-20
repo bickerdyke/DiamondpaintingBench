@@ -35,9 +35,9 @@ The right module has
 
 ## Project Details
 
-Height: 60mm
-Width: x / 105mm (*) / x
-Depth: 80mm
+* Height: 60mm
+* Width: 55mm / 105mm (*) / 60mm
+* Depth: 80mm
 
 (*) not including interlocking peg
 
