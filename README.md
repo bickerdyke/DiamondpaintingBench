@@ -1,0 +1,13 @@
+# Diamond-Painting Workbench
+
+* todo *
+
+## Project pages:
+* Github: [https://github.com/bickerdyke/?????????????????]
+* Thingiverse: [https://www.thingiverse.com/thing:???????????????]
+
+## Version history
+
+* v0.0 2022-12-27 Project Start
+* v1.0-alpha 2023-01-01 Project sucessfully printed
+* v1.0 2023-02-21 published
