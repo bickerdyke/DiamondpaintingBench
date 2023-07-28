@@ -18,11 +18,16 @@ The left module has
 
 This module can hold either a single vial OR a tray, but not both at the same time. The idea behind this is that you can put the currently used vial here as a reminder with what color your tray is currently filled. When finishing the color, put the left over stones back in the vial and put the vial back in regular storage.
 
-### Center Module
+### Center Module for bottles
 
 * 6 openings for rhinestone vials
 
 This module can be printed several times to extend storage space as needed. The holes are for 25mm standard vials.
+
+### Center Module for bags
+
+* 4 narrow slits for little ziploc bags
+* 2 wider slits for bigger bags or more drilling trays.
 
 ### Right End module
 
@@ -32,6 +37,10 @@ The right module has
 * tweezers holder
 * wax pad holder
 * funnel holder (for collapsible silicone funnel - one came with my kit)
+
+### Simple Right and Left End module
+
+As part of Set 2, there are now simple end modules without additional features available.
 
 ## Project Details
 
